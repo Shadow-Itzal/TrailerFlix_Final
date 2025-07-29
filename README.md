@@ -60,40 +60,40 @@ El servidor quedará activo en:
 TrailerFlix_Final/
 |
 ├── img/
-|    └── DER_TrailerFlix.jpg
+|     └── DER_TrailerFlix.jpg
 |
 ├── ParaWorkbench/
-|        ├── 01-BD.sql
-|        ├── 02-categorias.sql
-|        ├── 03-generos.sql
-|        ├── 04-tags.sql
-|        ├── 05-actores.sql
-|        ├── 06-contenidos.sql
-|        ├── 07-contenido-actores.sql
-|        ├── 08-contenido-tags.sql
-|        ├── Parte-2_consultas.sql
-|        └── Trailerflix_arreglado.json
+|         ├── 01-BD.sql
+|         ├── 02-categorias.sql
+|         ├── 03-generos.sql
+|         ├── 04-tags.sql
+|         ├── 05-actores.sql
+|         ├── 06-contenidos.sql
+|         ├── 07-contenido-actores.sql
+|         ├── 08-contenido-tags.sql
+|         ├── Parte-2_consultas.sql
+|         └── Trailerflix_arreglado.json
 |
 ├── src/
 |    ├── config/
-|    |       └── database.js
+|    |    └── database.js
 |    |
 |    ├── models/
-|    |       ├── actor.js
-|    |       ├── categoria.js
-|    |       ├── contenido.js
-|    |       ├── genero.js
-|    |       ├── index.js
-|    |       └── tag.js
+|    |    ├── actor.js
+|    |    ├── categoria.js
+|    |    ├── contenido.js
+|    |    ├── genero.js
+|    |    ├── index.js
+|    |    └── tag.js
 |    | 
 |    └── routes/
-|        ├── actores/
-|        ├── categorias/
-|        ├── contenido_actores/
-|        ├── contenido_tags/
-|        ├── contenidos/
-|        ├── generos/
-|        └── tags/
+|         ├── actores/
+|         ├── categorias/
+|         ├── contenido_actores/
+|         ├── contenido_tags/
+|         ├── contenidos/
+|         ├── generos/
+|         └── tags/
 |
 ├── .env.example
 |
